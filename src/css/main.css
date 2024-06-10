@@ -1,0 +1,18 @@
+:root{
+    background-color: rgb(36, 36, 36);
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+
+}
+
+body{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
